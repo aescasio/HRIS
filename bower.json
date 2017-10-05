@@ -1,0 +1,23 @@
+{
+  "name": "HRIS",
+  "description": "Human Resource Information System - by: Gelo",
+  "main": "",
+  "authors": [
+    "avescasio@gmail.com <MVy367SjUtGMe>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+	"vendor/bower_components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+    "bootstrap-colorpicker": "^2.5.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "select2-bootstrap-theme": "^0.1.0-beta.10"
+  }
+}
